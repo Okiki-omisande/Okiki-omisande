@@ -22,11 +22,11 @@ Java
 
 Springboot 
 
-PSQL
+Psql
 
-MYSQL
+MySql
 
-POSTMAN
+Postman
 
 HTML
 
