@@ -6,7 +6,6 @@ I spend most of my time building and debugging programs for effective software s
 
 I love contributing to open source projects and connecting with great minds
 
-I am currently open to intern/entry-level roles
 
 🌐 Socials:
 
