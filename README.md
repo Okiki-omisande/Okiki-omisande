@@ -1,10 +1,8 @@
 💫 About Me:
 
-I am an enthusiastic and passionate software engineer 
-
-I spend most of my time building and debugging programs for effective software solutions.
-
-I love contributing to open source projects and connecting with great minds
+I am a Blockchain Security Researcher driven by the challenge of creating secure, resilient decentralized systems. 
+My expertise lies in identifying vulnerabilities in smart contracts and developing strategies to mitigate risks, ensuring optimal performance. 
+Passionate about staying at the forefront of emerging research, I continuously explore innovative, security-focused solutions to address complex blockchain challenges. Committed to delivering thorough audits and collaborating with teams, my goal is to build robust applications that foster trust, security, and innovation in decentralized technologies
 
 
 🌐 Socials:
@@ -15,19 +13,6 @@ Twitter:  https://twitter.com/okiki_omisande
 
 Email: okikiomisande8@gmail.com
 
-💻 Tech Stack:
-
-Java
-
-Springboot 
-
-Psql
-
-MySql
-
-Postman
-
-HTML
 
 
 
