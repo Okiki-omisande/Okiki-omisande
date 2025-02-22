@@ -5,13 +5,28 @@ My expertise lies in identifying vulnerabilities in smart contracts and developi
 Passionate about staying at the forefront of emerging research, I continuously explore innovative, security-focused solutions to address complex blockchain challenges. Committed to delivering thorough audits and collaborating with teams, my goal is to build robust applications that foster trust, security, and innovation in decentralized technologies
 
 
+
 🌐 Socials:
 
-LinkedIn: https://www.linkedin.com/in/okiki-omisande-b672a7229 
+**LinkedIn:** https://www.linkedin.com/in/okiki-omisande-b672a7229 
 
-Twitter:  https://twitter.com/okiki_omisande
+**Twitter:**  https://twitter.com/okiki_omisande
 
-Email: okikiomisande8@gmail.com
+**Email:** okikiomisande8@gmail.com
+
+**Codehawks Username:**  Invcbull
+
+**Sherlock Username:** Invcbull
+
+**Code4rena Username:** Invcbull
+
+
+
+✅ Audit Portfolio:
+
+| Overall | High risk | Medium risk |  Low Risk |  Info |
+| -------- | -------- | -------- | -------- | -------- |
+| 10 findings | 3 | 2 | 2 | 2 | 2 |
 
 
 
