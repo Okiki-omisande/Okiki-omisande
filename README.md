@@ -14,7 +14,7 @@ Passionate about staying at the forefront of emerging research, I continuously e
 
 **Email:** okikiomisande8@gmail.com
 
-**Codehawks Username:**  Invcbull
+**Codehawks Username:**  invcbull
 
 **Sherlock Username:** Invcbull
 
