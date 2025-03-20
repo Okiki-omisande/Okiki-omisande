@@ -14,11 +14,13 @@ Passionate about staying at the forefront of emerging research, I continuously e
 
 **Email:** okikiomisande8@gmail.com
 
-**Codehawks Username:**  invcbull
+**Telegram:** @Invcbull
 
-**Sherlock Username:** Invcbull
+**Codehawks Username:**  [invcbull](https://profiles.cyfrin.io/u/invcbull)
 
-**Code4rena Username:** Invcbull
+**Sherlock Username:** [Invcbull](https://audits.sherlock.xyz/watson/Invcbull)
+
+**Code4rena Username:** [Invcbull](https://code4rena.com/@Invcbull)
 
 
 
@@ -27,6 +29,12 @@ Passionate about staying at the forefront of emerging research, I continuously e
 | Overall | High risk | Medium risk |  Low Risk |  Info |
 | -------- | -------- | -------- | -------- | -------- |
 | 10 findings | 3 | 2 | 2 | 2 | 2 |
+
+| Contest Name  | High | Medium |  Low | 
+| -------- | -------- | -------- | -------- |
+| Mystery Box | 3 | 2 | 1 |
+| Dria-Swan | 0 | 0 | 1 |
+| Ignite | 0 | 0 | 1 |
 
 
 
