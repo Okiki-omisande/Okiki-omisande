@@ -28,13 +28,14 @@ Passionate about staying at the forefront of emerging research, I continuously e
 
 | Overall | High risk | Medium risk |  Low Risk |  Info |
 | -------- | -------- | -------- | -------- | -------- |
-| 10 findings | 3 | 2 | 2 | 2 | 2 |
+| 13 findings | 7 | 2 | 2 | 2 |
 
 | Contest Name  | High | Medium |  Low | 
 | -------- | -------- | -------- | -------- |
 | Mystery Box | 3 | 2 | 1 |
 | Dria-Swan | 0 | 0 | 1 |
 | Ignite | 0 | 0 | 1 |
+| Inheritable SC | 4 | 0 | 1 |
 
 
 
