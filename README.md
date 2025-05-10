@@ -16,6 +16,8 @@ Passionate about staying at the forefront of emerging research, I continuously e
 
 **Telegram:** @Invcbull
 
+**ImmuneFi Username:** [Invcbull](https://immunefi.com/profile/Invcbull/)
+
 **Codehawks Username:**  [invcbull](https://profiles.cyfrin.io/u/invcbull)
 
 **Sherlock Username:** [Invcbull](https://audits.sherlock.xyz/watson/Invcbull)
@@ -24,7 +26,8 @@ Passionate about staying at the forefront of emerging research, I continuously e
 
 
 
-✅ Audit Portfolio:
+
+✅ Audit Portfolio: [Reports](https://github.com/Okiki-omisande/Past-Audit-Findings)
 
 | Overall | High risk | Medium risk |  Low Risk |  Info |
 | -------- | -------- | -------- | -------- | -------- |
@@ -36,6 +39,9 @@ Passionate about staying at the forefront of emerging research, I continuously e
 | Dria-Swan | 0 | 0 | 1 |
 | Ignite | 0 | 0 | 1 |
 | Inheritable SC | 4 | 0 | 1 |
+| Yeet | 1 Critical | 0 | 0 |
+
+
 
 
 
