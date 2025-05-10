@@ -16,6 +16,8 @@ Passionate about staying at the forefront of emerging research, I continuously e
 
 **Telegram:** @Invcbull
 
+**Discord** : invcbull
+
 **ImmuneFi Username:** [Invcbull](https://immunefi.com/profile/Invcbull/)
 
 **Codehawks Username:**  [invcbull](https://profiles.cyfrin.io/u/invcbull)
