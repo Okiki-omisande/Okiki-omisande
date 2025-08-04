@@ -33,7 +33,7 @@ Passionate about staying at the forefront of emerging research, I continuously e
 
 | Overall | High risk | Medium risk |  Low Risk |  Info |
 | -------- | -------- | -------- | -------- | -------- |
-| 13 findings | 7 | 2 | 2 | 2 |
+| 16 findings | 8 | 4 | 2 | 2 |
 
 | Contest Name  | High | Medium |  Low | 
 | -------- | -------- | -------- | -------- |
@@ -42,6 +42,7 @@ Passionate about staying at the forefront of emerging research, I continuously e
 | Ignite | 0 | 0 | 1 |
 | Inheritable SC | 4 | 0 | 1 |
 | Yeet | 1 Critical | 0 | 0 |
+| RAAC | 1 | 2 | 0 |
 
 
 
