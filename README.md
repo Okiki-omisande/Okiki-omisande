@@ -49,7 +49,7 @@ Passionate about staying at the forefront of emerging research, I continuously e
 ## Private Audit
 | Project Name  | High | Medium |  Low | Info | Report Link |
  | -------- | -------- | -------- | -------- | -------- |  -------- |
-| ODDSHOT_BSC | 2| 2| 2| 2| [Audit Report]() |
+| ODDSHOT_BSC | 2| 2| 2| 2| [Audit Report](https://github.com/Okiki-omisande/Past-Audit-Findings/blob/main/Private%20Audits/ODDSHOT_TOKEN_CONTRACT_AUDIT.pdf) |
 | AFRX | 1 critical| -| -| -| [Audit Report](https://github.com/Okiki-omisande/Past-Audit-Findings/blob/main/Private%20Audits/Afrx.md) |
 
 
