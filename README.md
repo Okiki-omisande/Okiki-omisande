@@ -14,7 +14,7 @@ Passionate about staying at the forefront of emerging research, I continuously e
 
 **Email:** okikiomisande8@gmail.com
 
-**Telegram:** @Invcbull
+**Telegram:** http://t.me/Invcbull
 
 **Discord** : invcbull
 
@@ -35,15 +35,22 @@ Passionate about staying at the forefront of emerging research, I continuously e
 | -------- | -------- | -------- | -------- | -------- |
 | 16 findings | 8 | 4 | 2 | 2 |
 
-| Contest Name  | High | Medium |  Low | 
-| -------- | -------- | -------- | -------- |
-| Mystery Box | 3 | 2 | 1 |
-| Dria-Swan | 0 | 0 | 1 |
-| Ignite | 0 | 0 | 1 |
-| Inheritable SC | 4 | 0 | 1 |
-| Yeet | 1 Critical | 0 | 0 |
-| RAAC | 1 | 2 | 0 |
+## Contest
 
+| Contest Name  | High | Medium |  Low | Platform | Report Link |
+| -------- | -------- | -------- | -------- |-------- | -------- |
+| Mystery Box | 3 | 2 | 1 | Codehawks | [Report](https://github.com/Okiki-omisande/Past-Audit-Findings/blob/main/FirstFlight/MysteryBox.md) |
+| Dria-Swan | - | - | 1 | Codehawks | [Report](https://github.com/Okiki-omisande/Past-Audit-Findings/blob/main/Contests/Swan.md) |
+| Ignite | - | - | 1 | Codehawks | [Report](https://github.com/Okiki-omisande/Past-Audit-Findings/blob/main/Contests/Benqi.md) |
+| Inheritable SC | 4 | - | 1 | Codehawks | [Report](https://github.com/Okiki-omisande/Past-Audit-Findings/blob/main/FirstFlight/InheritableSCWallet.md) |
+| Yeet | 1 Critical | - | - | Immunefi | [Report](https://github.com/Okiki-omisande/Past-Audit-Findings/blob/main/Contests/Yeet.md) |
+| RAAC | 1 | 2 | - | Codehawks | [Report](https://github.com/Okiki-omisande/Past-Audit-Findings/blob/main/Contests/RAAC.md) |
+
+## Private Audit
+| Project Name  | High | Medium |  Low | Info |
+ | -------- | -------- | -------- | -------- | -------- |
+| ODDSHOT Token | 2| 2| 2| 2| [Audit Report]() |
+| AFRX | 1 critical| -| -| -| [Audit Report](https://github.com/Okiki-omisande/Past-Audit-Findings/blob/main/Private%20Audits/Afrx.md) |
 
 
 
