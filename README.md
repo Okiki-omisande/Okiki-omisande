@@ -33,7 +33,7 @@ Passionate about staying at the forefront of emerging research, I continuously e
 
 | Overall | High risk | Medium risk |  Low Risk |  Info |
 | -------- | -------- | -------- | -------- | -------- |
-| 16 findings | 8 | 4 | 2 | 2 |
+| 28 findings | 12 | 6 | 6 | 4 |
 
 ## Contest
 
@@ -47,9 +47,9 @@ Passionate about staying at the forefront of emerging research, I continuously e
 | RAAC | 1 | 2 | - | Codehawks | [Report](https://github.com/Okiki-omisande/Past-Audit-Findings/blob/main/Contests/RAAC.md) |
 
 ## Private Audit
-| Project Name  | High | Medium |  Low | Info |
- | -------- | -------- | -------- | -------- | -------- |
-| ODDSHOT Token | 2| 2| 2| 2| [Audit Report]() |
+| Project Name  | High | Medium |  Low | Info | Report Link |
+ | -------- | -------- | -------- | -------- | -------- |  -------- |
+| ODDSHOT_BSC | 2| 2| 2| 2| [Audit Report]() |
 | AFRX | 1 critical| -| -| -| [Audit Report](https://github.com/Okiki-omisande/Past-Audit-Findings/blob/main/Private%20Audits/Afrx.md) |
 
 
