@@ -8,8 +8,6 @@ Passionate about staying at the forefront of emerging research, I continuously e
 
 🌐 Socials:
 
-**LinkedIn:** https://www.linkedin.com/in/okiki-omisande-b672a7229 
-
 **Twitter:**  https://twitter.com/okiki_omisande
 
 **Email:** okikiomisande8@gmail.com
@@ -17,6 +15,8 @@ Passionate about staying at the forefront of emerging research, I continuously e
 **Telegram:** http://t.me/Invcbull
 
 **Discord** : invcbull
+
+**LinkedIn:** https://www.linkedin.com/in/okiki-omisande-b672a7229 
 
 **ImmuneFi Username:** [Invcbull](https://immunefi.com/profile/Invcbull/)
 
