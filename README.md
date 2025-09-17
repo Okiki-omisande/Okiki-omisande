@@ -1,6 +1,6 @@
 💫 About Me:
 
-I am a Blockchain Security Researcher driven by the challenge of creating secure, resilient decentralized systems. 
+I am a Blockchain Security Researcher and the founder of Invcbull Audit Group(IAG), I'm driven by the challenge of creating secure, resilient decentralized systems. 
 My expertise lies in identifying vulnerabilities in smart contracts and developing strategies to mitigate risks, ensuring optimal performance. 
 Passionate about staying at the forefront of emerging research, I continuously explore innovative, security-focused solutions to address complex blockchain challenges. Committed to delivering thorough audits and collaborating with teams, my goal is to build robust applications that foster trust, security, and innovation in decentralized technologies
 
@@ -33,7 +33,7 @@ Passionate about staying at the forefront of emerging research, I continuously e
 
 | Overall | High risk | Medium risk |  Low Risk |  Info |
 | -------- | -------- | -------- | -------- | -------- |
-| 28 findings | 12 | 6 | 6 | 4 |
+| 38 findings | 14 | 8 | 10 | 6 |
 
 ## Contest
 
@@ -51,6 +51,7 @@ Passionate about staying at the forefront of emerging research, I continuously e
  | -------- | -------- | -------- | -------- | -------- |  -------- |
 | ODDSHOT_BSC | 2| 2| 2| 2| [Audit Report](https://github.com/Okiki-omisande/Past-Audit-Findings/blob/main/Private%20Audits/ODDSHOT_TOKEN_CONTRACT_AUDIT.pdf) |
 | AFRX | 1 critical| -| -| -| [Audit Report](https://github.com/Okiki-omisande/Past-Audit-Findings/blob/main/Private%20Audits/Afrx.md) |
+| POWERS PROTOCOL| 2 critcal, 2 highs| 4| 2| [Audit Report](https://github.com/Okiki-omisande/Past-Audit-Findings/blob/main/Private%20Audits/Power_Protocol_Audit_Report_Aug2025.pdf) |
 
 
 
