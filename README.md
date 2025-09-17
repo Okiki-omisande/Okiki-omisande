@@ -31,9 +31,9 @@ Passionate about staying at the forefront of emerging research, I continuously e
 
 ✅ Audit Portfolio: [Reports](https://github.com/Okiki-omisande/Past-Audit-Findings)
 
-| Overall | High risk | Medium risk |  Low Risk |  Info |
-| -------- | -------- | -------- | -------- | -------- |
-| 38 findings | 14 | 8 | 10 | 6 |
+| Overall | Critical risk | High risk | Medium risk |  Low Risk |  Info |
+| -------- | -------- | -------- | -------- | -------- | -------- |
+| 36 findings | 4 | 12 | 10 | 8 | 2 |
 
 ## Contest
 
@@ -47,11 +47,11 @@ Passionate about staying at the forefront of emerging research, I continuously e
 | RAAC | 1 | 2 | - | Codehawks | [Report](https://github.com/Okiki-omisande/Past-Audit-Findings/blob/main/Contests/RAAC.md) |
 
 ## Private Audit
-| Project Name  | High | Medium |  Low | Info | Report Link |
- | -------- | -------- | -------- | -------- | -------- |  -------- |
-| ODDSHOT_BSC | 2| 2| 2| 2| [Audit Report](https://github.com/Okiki-omisande/Past-Audit-Findings/blob/main/Private%20Audits/ODDSHOT_TOKEN_CONTRACT_AUDIT.pdf) |
-| AFRX | 1 critical| -| -| -| [Audit Report](https://github.com/Okiki-omisande/Past-Audit-Findings/blob/main/Private%20Audits/Afrx.md) |
-| POWERS PROTOCOL| 2 critcal, 2 highs| 4| 2| [Audit Report](https://github.com/Okiki-omisande/Past-Audit-Findings/blob/main/Private%20Audits/Power_Protocol_Audit_Report_Aug2025.pdf) |
+| Project Name  |  Critical | High | Medium |  Low | Info | Report Link |
+ | -------- | -------- | -------- | -------- | -------- |  -------- | -------- |
+| ODDSHOT_BSC | -| 2| 2| 2| 2| [Audit Report](https://github.com/Okiki-omisande/Past-Audit-Findings/blob/main/Private%20Audits/ODDSHOT_TOKEN_CONTRACT_AUDIT.pdf) |
+| AFRX | 1|  -|-| -| -| [Audit Report](https://github.com/Okiki-omisande/Past-Audit-Findings/blob/main/Private%20Audits/Afrx.md) |
+| POWERS PROTOCOL| 2| 2| 4| 2| -| [Audit Report](https://github.com/Okiki-omisande/Past-Audit-Findings/blob/main/Private%20Audits/Power_Protocol_Audit_Report_Aug2025.pdf) |
 
 
 
