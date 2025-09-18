@@ -16,8 +16,6 @@ Passionate about staying at the forefront of emerging research, I continuously e
 
 **Discord** : invcbull
 
-**LinkedIn:** https://www.linkedin.com/in/okiki-omisande-b672a7229 
-
 **ImmuneFi Username:** [Invcbull](https://immunefi.com/profile/Invcbull/)
 
 **Codehawks Username:**  [invcbull](https://profiles.cyfrin.io/u/invcbull)
