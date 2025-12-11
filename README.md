@@ -31,7 +31,7 @@ Passionate about staying at the forefront of emerging research, I continuously e
 
 | Overall | Critical risk | High risk | Medium risk |  Low Risk |  Info |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| 36 findings | 4 | 12 | 10 | 8 | 2 |
+| 46 findings | 5 | 15 | 12 | 10 | 4 |
 
 ## Contest
 
@@ -50,6 +50,8 @@ Passionate about staying at the forefront of emerging research, I continuously e
 | ODDSHOT_BSC | -| 2| 2| 2| 2| [Audit Report](https://github.com/Okiki-omisande/Past-Audit-Findings/blob/main/Private%20Audits/ODDSHOT_TOKEN_CONTRACT_AUDIT.pdf) |
 | AFRX | 1|  -|-| -| -| [Audit Report](https://github.com/Okiki-omisande/Past-Audit-Findings/blob/main/Private%20Audits/Afrx.md) |
 | POWERS PROTOCOL| 2| 2| 4| 2| -| [Audit Report](https://github.com/Okiki-omisande/Past-Audit-Findings/blob/main/Private%20Audits/Power_Protocol_Audit_Report_Aug2025.pdf) |
+| MEMEDOTFUN| 1| 3| 2| 2| 2| [Audit Report](https://github.com/Okiki-omisande/Past-Audit-Findings/blob/main/Private%20Audits/Memedotfun_Audit_Report.pdf) |
+
 
 
 
