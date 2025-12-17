@@ -1,6 +1,6 @@
 💫 About Me:
 
-I am a Blockchain Security Researcher and the founder of Invcbull Audit Group(IAG), I'm driven by the challenge of creating secure, resilient decentralized systems. 
+I am a Blockchain Security Researcher, I'm driven by the challenge of creating secure, resilient decentralized systems. 
 My expertise lies in identifying vulnerabilities in smart contracts and developing strategies to mitigate risks, ensuring optimal performance. 
 Passionate about staying at the forefront of emerging research, I continuously explore innovative, security-focused solutions to address complex blockchain challenges. Committed to delivering thorough audits and collaborating with teams, my goal is to build robust applications that foster trust, security, and innovation in decentralized technologies
 
