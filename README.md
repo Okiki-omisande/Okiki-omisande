@@ -31,7 +31,7 @@ Passionate about staying at the forefront of emerging research, I continuously e
 
 | Overall | Critical risk | High risk | Medium risk |  Low Risk |  Info |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| 46 findings | 5 | 15 | 12 | 10 | 4 |
+| 47 findings | 5 | 15 | 12 | 11 | 4 |
 
 ## Contest
 
@@ -52,8 +52,10 @@ Passionate about staying at the forefront of emerging research, I continuously e
 | POWERS PROTOCOL| 2| 2| 4| 2| -| [Audit Report](https://github.com/Okiki-omisande/Past-Audit-Findings/blob/main/Private%20Audits/Power_Protocol_Audit_Report_Aug2025.pdf) |
 | MEMEDOTFUN| 1| 3| 2| 2| 2| [Audit Report](https://github.com/Okiki-omisande/Past-Audit-Findings/blob/main/Private%20Audits/Memedotfun_Audit_Report.pdf) |
 
-
-
+## Bug Bounty
+| Project Name  | Report Link |
+| -------- | -------- |
+| SELFHQ | [disclosure](https://github.com/Okiki-omisande/Past-Audit-Findings/blob/main/BugBounty/SELFHQ.md)
 
 
 
